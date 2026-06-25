@@ -22,9 +22,9 @@ The goal of this project is to practice data analysis, feature exploration, visu
 This repository contains:
 
 
-ipynb file (main file) 
+ * ipynb file (main file) 
 
- txt file (explanation and analysis)
+ * txt file (explanation and analysis)
 
 ---
 
@@ -59,7 +59,7 @@ Each task will focus on a different stage of the data mining and workflow.
 
 Heart Disease UCI Dataset
 
-This dataset is widely used for educational purposes in machine learning, healthcare analytics, and data mining research.
+This dataset is widely used for educational purposes in healthcare analytics, and data mining research.
 
 ##
 
